@@ -1,0 +1,19 @@
+body{
+    
+    background-image: linear-gradient(to right ,black,crimson);
+}
+#recipe{
+    color:blanchedalmond;
+}
+.step12{
+color:greenyellow;
+}
+h1,h3{
+    color:darksalmon;
+}
+img{
+    width:350px;
+}
+ul{
+    list-style-type: square;
+}
